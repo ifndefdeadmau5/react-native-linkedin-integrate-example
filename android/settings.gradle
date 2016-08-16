@@ -1,0 +1,3 @@
+rootProject.name = 'ReactLinkedin'
+
+include ':app'
