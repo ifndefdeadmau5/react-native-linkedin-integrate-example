@@ -3,7 +3,7 @@
 Inspired by https://github.com/jodybrewster/react-native-linkedin-login
 You check all of complete source code diff at [here](https://github.com/ifndefdeadmau5/react-native-practice/commit/56a211ff741710e642742312f4acf99d9aef23f8)
 ##Instruction
-1. First, make sure your initial react-native app installed properly and running on device.
+1. First, make sure your initial react-native app has installed properly and running on device.
 
 2. install package via npm
   > ```npm install react-native-linkedin-login --save```
