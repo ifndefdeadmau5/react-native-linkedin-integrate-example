@@ -52,6 +52,7 @@ class LinkedinLogin {
                 const data = JSON.parse(d.data);
 
                 if (data.values) {
+                    console.log(data.values);
                     resolve(data.values);
                 } else {
                     reject('No profile image found');
