@@ -9,7 +9,7 @@ You check all of complete source code diff at [here](https://github.com/ifndefde
   > ```npm install react-native-linkedin-login --save```
 
 3. Modify **RNLinkedinLoginModule.java** at Android Studio
-  > ```Just replace whole code with this [gist](https://gist.github.com/ifndefdeadmau5/c4ff4ee8014b18730aaa5f262102d152)```
+  > Just replace whole code with this [gist](https://gist.github.com/ifndefdeadmau5/c4ff4ee8014b18730aaa5f262102d152)
 
 4. Modify **android/settings.gradle**
   > ```You can basically follow a above(react-native-linkedin-login) github link, but you have to modify a path to set actual react-native-linkedin-login module’s path```
